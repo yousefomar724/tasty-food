@@ -423,7 +423,6 @@ body.dark-theme{
     }
     /*==-- MAIN --==*/
     .home__img { width: 500px; }
-
     .about__container,
     .app__container { column-gap: 7rem; }
 }
